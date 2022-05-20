@@ -5,7 +5,7 @@
 I'm a french developer based in Paris, I'm mainly using Javascript with React, but I love to learn new things and I'm not stuck in a technology 😉
 
 
-[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" height="22px" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/fb.visual/)
+[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" height="22px" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https:://www.instagram.com/fb.visual/)
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="22px" align="center" alt="contact me" title="Contact me on Linkedin">](https://www.linkedin.com/in/florianbeaumont/)
 
 - 🔭 I’m currently working on  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
