@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a french developer based in Paris, I'm mainly using Javascript with React, but I love to learn new things and I'm not stuck in a technology 😉
+I'm a French developer based in Paris and I mainly use JavaScript with React. However, I love to learn new things and I'm not limited to any one technology 😉.
 
 
 [<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" height="22px" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/fb.visual/)
