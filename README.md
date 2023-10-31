@@ -21,4 +21,3 @@ I'm a software developer based in Paris, France, specializing in JavaScript and 
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BFlorian91&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFlorian91&theme=dark" />
