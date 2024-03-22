@@ -5,8 +5,8 @@
 
 Specialized in JavaScript and Vue.js, based in Paris. Passionate about creating efficient and innovative solutions. Let's connect!
 
-<a href="https://www.linkedin.com/in/florianbeaumont/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a> <a href="https://www.instagram.com/fb.visual/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a> <a href="https://twitter.com/flbeaumo"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a>
-
+<a href="https://www.linkedin.com/in/florianbeaumont/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a> <a href="https://twitter.com/flbeaumo"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a>
+<a href="https://www.instagram.com/fb.visual/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a>
 
 
 ### Skills & Tools:
