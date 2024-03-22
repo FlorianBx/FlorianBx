@@ -1,21 +1,27 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=BFlorian91)
-
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I'm a software developer based in Paris, France, specializing in JavaScript and Vue. My passion for learning drives me to explore diverse technologies and contribute to exciting projects. Open to collaboration and eager to innovate. 🚀🌟
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=BFlorian91&right_color=%234FC08D)
 
 
-[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" height="22px" align="center" alt="Follow me on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/fb.visual/)
-[<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" height="22px" align="center" alt="contact me" title="Contact me on Linkedin">](https://www.linkedin.com/in/florianbeaumont/)
+## Florian B. | Software Developer
 
-- 🔭 I’m currently working on: ![Vue](https://raw.githubusercontent.com/BFlorian91/tech_svgs/main/vue.svg?token=GHSAT0AAAAAACOZWQ7P7GA7EEGEPFF3QKHOZP6BLJA) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+Specialized in JavaScript and Vue.js, based in Paris. Passionate about creating efficient and innovative solutions. Let's connect!
 
-- 🌱 I’m currently learning: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+<a href="https://www.linkedin.com/in/florianbeaumont/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" />
+</a>
+<a href="https://www.instagram.com/fb.visual/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" />
+</a>
+<a href="https://twitter.com/flbeaumo">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" />
+</a>
 
-- 👯 I'm open to collaborating on various projects, including open source initiatives.
 
-- 💬 Ask me about anything, I'm happy to help
+### Skills & Tools:
 
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+`Vue.js` `TypeScript` `Nuxt.js` `Vitest` `Tailwind CSS` `Vite`
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BFlorian91&theme=dark" />
+### Reach Out:
+
+For collaborations or inquiries, contact me on [LinkedIn](https://www.linkedin.com/in/florianbeaumont/).
+
+![GitHub Profile Summary](https://camo.githubusercontent.com/27cbec9b25097fb65dca0d68b4728fb08bba392263f4dd4e98f514bdcf76ad9a/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d42466c6f7269616e3931267468656d653d6461726b)
