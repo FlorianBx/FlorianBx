@@ -11,7 +11,7 @@ Specialized in JavaScript and Vue.js, based in Paris. Dedicated to building effi
 
 ### Skills & Tools:
 
-`Vue.js` `TypeScript` `Nuxt.js` `Vitest` `Tailwind CSS` `Vite`
+`Vue.js` `TypeScript` `Nuxt.js` `Vitest` `UnoCSS` `Tailwind CSS` `Vite`
 
 ### Reach Out:
 
