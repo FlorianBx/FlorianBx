@@ -13,10 +13,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: github-metrics.svg
           user: FlorianBx
           token: ${{ secrets.METRICS_TOKEN }}
-          #config_output: markdown
           plugin_activity: yes
           plugin_activity_limit: 7
           plugin_activity_days: 0
