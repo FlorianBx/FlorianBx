@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: github-metrics.svg
           user: FlorianBx
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
