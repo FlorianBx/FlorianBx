@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
+          user: FlorianBx
           token: ${{ secrets.METRICS_TOKEN }}
           config_output: markdown
           plugin_activity: yes
