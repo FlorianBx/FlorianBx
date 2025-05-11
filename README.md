@@ -5,13 +5,18 @@
 
 Specialized in JavaScript and Vue.js, based in Paris. Dedicated to building efficient and innovative solutions and sharing knowledge. Let's connect!
 
-<a href="https://www.linkedin.com/in/florianbeaumont/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a>
-<a href="https://bsky.app/profile/florianbx.bsky.social"><img src="https://img.shields.io/badge/Bluesky-4FC08D?logo=bluesky&logoColor=fff&style=for-the-badge" width="140" height="30" /></a>
-<a href="https://www.instagram.com/fb.visual/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=4FC08D&color=4FC08D" width="140" height="30" /></a>
 
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/florianbeaumont/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-4FC08D?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.linkedin.com/in/florianbeaumont/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Bluesky-4FC08D?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky" />
+  </a>
+  <a href="https://www.linkedin.com/in/florianbeaumont/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-4FC08D?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram" />
+  </a>
+</p>
 
 
 ### Skills & Tools:
