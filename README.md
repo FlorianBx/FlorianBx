@@ -10,10 +10,10 @@ Specialized in JavaScript and Vue.js, based in Paris. Dedicated to building effi
   <a href="https://www.linkedin.com/in/florianbeaumont/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-4FC08D?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/florianbeaumont/">
+  <a href="https://bsky.app/profile/did:plc:fcxpk2natbmzqzpgyljre4hx">
     <img src="https://custom-icon-badges.demolab.com/badge/Bluesky-4FC08D?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky" />
   </a>
-  <a href="https://www.linkedin.com/in/florianbeaumont/">
+  <a href="https://www.instagram.com/fb.visual/">
     <img src="https://custom-icon-badges.demolab.com/badge/Instagram-4FC08D?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram" />
   </a>
 </p>
